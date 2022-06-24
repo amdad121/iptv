@@ -405,4 +405,4 @@ http://103.159.4.38:9191/CH46-ENG4/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/madani-channel.png" group-title="Religious", 125. MADANI TV HD
-http://208.86.19.13:81/508.stream/index.m3u8
+http://103.55.144.46/hls/madani.m3u8
