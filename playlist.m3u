@@ -119,10 +119,10 @@ http://103.55.144.46/hls/sunbangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bangla-cinema.png" group-title="Movies", 39. ZEE BANGLA CINEMA
-http://208.86.19.13:81/708.stream/index.m3u8
+http://103.55.144.46/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/jalsha-movies-hd.png" group-title="Movies", 40. JALSHA MOVIES HD
-http://208.86.19.13:81/617.stream/index.m3u8
+http://103.55.144.46/hls/jalshamovies.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/colors-bangla-cinema.png" group-title="Movies", 41. COLORS BANGLA CINEMA 
 http://103.55.144.46/hls/colore-bangla-cinema.m3u8
