@@ -203,20 +203,20 @@ http://103.55.144.46/hls/colorscineplex.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-max-hd.png" group-title="Movies", 64. SONY MAX HD
 http://103.55.144.46/hls/sony-maxhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-wah.png" group-title="Movies", 65. SONY WAH
-http://103.60.172.106:8080/SonyWah/index.m3u8?token=134e9a0845d9af261a0b5156862b1f64623fd8e1-154062fbe88fb8548f8e78c54020b99f-1657224749-1657213949
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png" group-title="Movies", 66. &PICTURES HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/and-pictures-hd.png" group-title="Movies", 65. &PICTURES HD
 http://103.55.144.46/hls/andpictures.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-movies.png" group-title="Movies", 67. UTV MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-movies.png" group-title="Movies", 66. UTV MOVIES
 http://103.55.144.46/hls/utv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-action.png" group-title="Movies", 68. UTV ACTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/utv-action.png" group-title="Movies", 67. UTV ACTION
 http://103.55.144.46/hls/utvaction.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-movies.png" group-title="Movies", 69. B4U MOVIES
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-movies.png" group-title="Movies", 68. B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/b4u-kadak.png" group-title="Movies", 69. B4U KADAK
+http://103.159.4.38:9191/CH34-IN-HIN6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dhinchaak-2.png" group-title="Movies", 70. DHINCHAAK 2
 http://103.55.144.46/hls/dhin.m3u8
@@ -257,7 +257,7 @@ http://103.55.144.46/hls/mn+.m3u8
 http://103.55.144.46/hls/mnx-hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/mbc-2.png" group-title="Movies", 82. MBC 2
-http://103.55.144.46/hls/dhin.m3u8
+http://103.55.144.46/hls/mbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/lotus-macau.png" group-title="Movies", 83. LOTUS MACAU
 http://103.55.144.46/hls/lotus.m3u8
