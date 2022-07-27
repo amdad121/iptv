@@ -366,14 +366,16 @@ http://103.55.144.46/hls/dis-science.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/khushboo-bangla.png" group-title="Kids", 116. KHUSHBOO BANGLA
-http://103.55.144.46/hls/khushboo.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/cartoon-network.png" group-title="Kids", 117. CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/cartoon-network.png" group-title="Kids", 116. CARTOON NETWORK
 http://103.55.144.46/hls/cn.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-channel.png" group-title="Kids", 118. DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/disney-channel.png" group-title="Kids", 117. DISNEY CHANNEL
 http://103.159.4.38:9191/CH45-ENG3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nick.png" group-title="Kids", 118. NICK
+http://103.55.144.46/hls/nick.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/animax.png" group-title="Kids", 119. ANIMAX
 http://210.210.155.37/dr9445/h/h144/index.m3u8
