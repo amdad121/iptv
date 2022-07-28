@@ -4,16 +4,16 @@
 http://103.106.2.152:13456/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/atn-bangla.png" group-title="General", 02. ATN BANGLA
-http://stream.amrbd.com:8082/ATN-Bangla/index.m3u8
+http://103.55.144.46/hls/atn.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel-i.png" group-title="General", 03. CHANNEL I HD
-http://stream.amrbd.com:8082/Channel-i/index.m3u8
+http://103.55.144.46/hls/channeli.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekushey-tv.png" group-title="General", 04. EKUSHEY TV
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ntv.png" group-title="General", 05. NTV
-http://stream.amrbd.com:8082/Ntv/index.m3u8
+http://103.55.144.46/hls/ntv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/rtv.png" group-title="General", 06. RTV HD
 http://stream.amrbd.com:8082/RTV/index.m3u8
@@ -22,7 +22,7 @@ http://stream.amrbd.com:8082/RTV/index.m3u8
 http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bangla-vision.png" group-title="General", 08. BANGLA VISION HD
-http://stream.amrbd.com:8082/BanglaVision/index.m3u8
+http://103.55.144.46/hls/banglavision.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/desh-tv.png" group-title="General", 09. DESH TV
 http://208.86.19.13:81/629.stream/index.m3u8
@@ -40,13 +40,14 @@ http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 http://stream.amrbd.com:8082/BijoyTv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/somoy.png" group-title="News", 14. SOMOY TV
-http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
+http://103.55.144.46/hls/somoy.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/independent.png" group-title="News", 15. INDEPENDENT
-http://stream.amrbd.com:8082/Independent-Tv/index.m3u8
+http://103.55.144.46/hls/indepen.m3u8
+http://103.55.144.46/hls/nexus.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/maasranga-tv.png" group-title="General", 16. MAASRANGA HD
-http://103.159.4.38:9191/CH20-BD9/index.m3u8
+http://103.55.144.46/hls/masranga.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel9.png" group-title="General", 17. CHANNEL 9
 http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
@@ -55,10 +56,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 http://stream.amrbd.com:8082/Channel24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gtv-hd.png" group-title="General", 19. GTV HD
-http://103.159.4.38:9191/CH2A-SP2/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ekattor-tv-hd.png" group-title="News", 20. EKATTOR TV HD
-http://stream.amrbd.com:8082/Ekattor-tv/index.m3u8
+http://103.55.144.46/hls/nexus.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/asian-tv.png" group-title="General", 21. ASIAN TV
 https://bd.jagobd.com:444/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
@@ -67,10 +68,10 @@ https://bd.jagobd.com:444/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 http://stream.amrbd.com:8082/SATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gaan-bangla.png" group-title="Music", 23. GAAN BANGLA
-http://103.159.4.38:9191/CH28-INBD7/index.m3u8
+http://103.55.144.46/hls/gb.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/jamuna-tv.png" group-title="News", 24. JAMUNA TV
-http://103.159.4.38:9191/CH13-BD2/index.m3u8
+http://103.55.144.46/hls/jamuna.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/deepto-hd.png" group-title="General", 25. DEEPTO HD
 http://stream.amrbd.com:8082/Deepto-Tv/index.m3u8
@@ -85,10 +86,10 @@ http://103.159.4.38:9191/CH16-BD5/index.m3u8
 http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/duronto-tv.png" group-title="Kids", 29. DURONTO TV
-http://stream.amrbd.com:8082/Duronto_TV/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/duranta.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nagorik.png" group-title="General", 30. NAGORIK
-http://stream.amrbd.com:8082/Nagorik-TV/index.m3u8
+http://103.55.144.46/hls/nagoriktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ananda-tv.png" group-title="General", 31. ANANDA TV
 http://stream.amrbd.com:8082/anandotv/index.m3u8
@@ -265,7 +266,7 @@ http://103.55.144.46/hls/lotus.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sangeet-bangla.png" group-title="Music", 84. SANGEET BANGLA
-http://103.159.4.38:9191/CH27-INBD6/index.m3u8
+http://103.55.144.46/hls/sangeetbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bangla-talkies.png" group-title="Music", 85. BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
