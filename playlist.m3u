@@ -13,7 +13,7 @@ http://103.55.144.46/hls/channeli.m3u8
 http://103.159.4.38:9191/CH19-BD8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ntv.png" group-title="General", 05. NTV
-http://103.55.144.46/hls/ntv.m3u8
+http://stream.amrbd.com:8082/Ntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/rtv.png" group-title="General", 06. RTV HD
 http://stream.amrbd.com:8082/RTV/index.m3u8
@@ -22,7 +22,7 @@ http://stream.amrbd.com:8082/RTV/index.m3u8
 http://stream.amrbd.com:8082/Boishakhi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bangla-vision.png" group-title="General", 08. BANGLA VISION HD
-http://103.55.144.46/hls/banglavision.m3u8
+http://stream.amrbd.com:8082/BanglaVision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/desh-tv.png" group-title="General", 09. DESH TV
 http://208.86.19.13:81/629.stream/index.m3u8
@@ -44,7 +44,6 @@ http://103.55.144.46/hls/somoy.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/independent.png" group-title="News", 15. INDEPENDENT
 http://103.55.144.46/hls/indepen.m3u8
-http://103.55.144.46/hls/nexus.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/maasranga-tv.png" group-title="General", 16. MAASRANGA HD
 http://103.55.144.46/hls/masranga.m3u8
